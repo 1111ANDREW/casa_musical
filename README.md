@@ -23,8 +23,8 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 4. **Configurar la base de datos:**
    - Abre tu gestor de bases de datos y ejecuta el archivo `bd_agenda.sql` para crear la base de datos de la aplicación.
    - 
-####**Proyecto Casa Musical**.
-**Integrantes:**.
+#### **Proyecto Casa Musical**
+**Integrantes:**
 1.Andrew Ascarza Huamanñahui
 2.Gabriel Juarez Chipa
 3.Hebert Salas Triveño
