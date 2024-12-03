@@ -1,5 +1,5 @@
-###casa musical
-### **Requisitos Previos**
+# casa musical
+## **Requisitos Previos**
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 
