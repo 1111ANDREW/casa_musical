@@ -1,4 +1,4 @@
-# casa musical
+# Plataforma para la Gestión de Instrumentos
 ## **Requisitos Previos**
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
